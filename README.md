@@ -1,5 +1,5 @@
 
-#Olá, eu sou Messias!  <img src="" width="30">
+#Olá, eu sou Messias!
 
 ### Seja bem-vindo ao meu perfil!😎
 
