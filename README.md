@@ -1,5 +1,5 @@
 
-#Olá, eu sou Messias!
+# Olá, eu sou Messias!
 
 ### Seja bem-vindo ao meu perfil!😎
 
@@ -9,11 +9,11 @@ Eu sou um entusiasta aprendendo programação! 🇧🇷 Recife-PE.
 
 ## Sobre mim: 
 
-I am a **Analysis and Systems Development** student at <a href="https://www.celsolisboa.edu.br">_Centro Universitário Celso Lisboa_</a> and a **Full-Stack Developer** student at <a href="https://web.dio.me">_Digital Innovation One_</a>.
+Eu sou um estudante autodidata e tenho em meus objetivos estudar analise e desenvolvimento de sistemas
 
-I worked many years as video and image editor and now I am a web developer student. I'm curently studying Game Development too. 
 
-I love chilling places as much a good PHONK music onto my ears while I do GYM. 🔥
+
+Eu gosto bastante de jogos de mesa.🎲
 
 
 ## Tecnologias que eu tenho vontade de aprender💻
@@ -27,14 +27,14 @@ I love chilling places as much a good PHONK music onto my ears while I do GYM. �
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## And learning 🎓
+## Aprendendo 🎓
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Fale comigo nas mídias sociais! 👾
 
-<a href="https://www.linkedin.com/in/huggsfmelo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/huggsfmelo/">![LinkedIn](nada aqui)</a> 
 
 
 ## Status do meu GitHub 🎉
