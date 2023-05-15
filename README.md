@@ -39,4 +39,5 @@ Eu gosto bastante de jogos de mesa.🎲
 
 ## Status do meu GitHub 🎉
 ![Messias Stats](https://github-readme-stats.vercel.app/api?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Messias Streak](https://github-readme-streak-stats.herokuapp.com/?user=Messias-Acacy&theme=dark&hide_border=true)
 ![Messias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&layout=compact)
