@@ -1,8 +1,7 @@
-### Hi there 👋
 
-# Oá, eu sou Messias!  <img src="" width="30">
+#Olá, eu sou Messias!  <img src="" width="30">
 
-### Seja bem-vindo ao meu perfil!
+### Seja bem-vindo ao meu perfil!😎
 
 Eu sou um entusiasta aprendendo programação! 🇧🇷 Recife-PE.
 
@@ -33,11 +32,11 @@ I love chilling places as much a good PHONK music onto my ears while I do GYM. �
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Fale comigo nas mídias sociais! 👍
+## Fale comigo nas mídias sociais! 👾
 
 <a href="https://www.linkedin.com/in/huggsfmelo/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 
-## Status do meu GitHub ⚡
+## Status do meu GitHub 🎉
 ![Messias Stats](https://github-readme-stats.vercel.app/api?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Messias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&layout=compact)
