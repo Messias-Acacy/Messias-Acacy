@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-# Hello, I am Hugo Melo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Oá, eu sou Messias!  <img src="" width="30">
 
-### Welcome to my profile. 😳
+### Seja bem-vindo ao meu perfil!
 
-I am a Web Developer from 🇧🇷 Recife-PE and currently here.
+Eu sou um entusiasta aprendendo programação! 🇧🇷 Recife-PE.
 
 <img src="https://i.pinimg.com/originals/5d/b7/bd/5db7bd2f3b0d538e085374d1e6b36188.gif" width="100%">
 
-## A little about me
+## Sobre mim: 
 
 I am a **Analysis and Systems Development** student at <a href="https://www.celsolisboa.edu.br">_Centro Universitário Celso Lisboa_</a> and a **Full-Stack Developer** student at <a href="https://web.dio.me">_Digital Innovation One_</a>.
 
