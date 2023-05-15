@@ -5,7 +5,7 @@
 
 Eu sou um entusiasta aprendendo programação! 🇧🇷 Recife-PE.
 
-<img src="https://i.pinimg.com/originals/5d/b7/bd/5db7bd2f3b0d538e085374d1e6b36188.gif" width="100%">
+<img src="[https://i.pinimg.com/originals/5d/b7/bd/5db7bd2f3b0d538e085374d1e6b36188.gif](https://tenor.com/view/rz-ds-project-gif-24176703)" width="100%">
 
 ## Sobre mim: 
 
