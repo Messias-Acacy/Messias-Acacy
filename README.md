@@ -44,5 +44,5 @@ I love chilling places as much a good PHONK music onto my ears while I do GYM. ð
 
 
 ## Github Stats âš¡
-![Huggsf's Stats](https://github-readme-stats.vercel.app/api?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Huggsf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huggsf&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Messias Stats](https://github-readme-stats.vercel.app/api?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Messias Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=dark&show_icons=true&hide_border=true&layout=compact)
