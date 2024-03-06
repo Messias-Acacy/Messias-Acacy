@@ -12,11 +12,11 @@
 </div>
 
 <div align="center">
-    Tecnologias que quero aprender :pushpin:
-  <img width="30%"  heigth="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=apprentice&hide_progress=true&show_icons=false&hide_border=true&layout=compact" alt="Streak Messias">
+ 
+  <img width="42%"  heigth="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=apprentice&hide_progress=true&show_icons=false&hide_border=true&layout=compact" alt="Streak Messias">
   
-  <div align="center">
-    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <div> tecnologias que uso  :pushpin:</div>
+  <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
@@ -24,6 +24,9 @@
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" /> 
+  
+  <div align="center">
+    
   </div>
 
   tecnologias que uso  :pushpin:
