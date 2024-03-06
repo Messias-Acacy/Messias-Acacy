@@ -1,5 +1,5 @@
-### Olá! 👋
-####  Sobre mim: 
+### Hello! :D
+####  About me: 
 -  👨‍🎓  I am a studant learning programming!                                                      
 -  🎓  I study System Analysis and Development at the Federal Institute of Pernambuco, and i find programming enjoyable.                     
 -  🎲  I really enjoy board games.
@@ -21,11 +21,6 @@
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-    
-  
-  <div align="center">
-    
-  </div>
 
   Technologies i want to learn 🥏
    <div align="center">
@@ -37,8 +32,6 @@
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" /> 
-     
-    
   </div>
   
   
