@@ -1,16 +1,54 @@
-### Hi there 👋
+### Olá! 👋
+####  Sobre mim: 
+-  👨‍🎓  I am a studant learning programming!                                                      
+-  🎓  I study System Analysis and Development at the Federal Institute of Pernambuco, and i find programming enjoyable.                     
+-  🎲  I really enjoy board games.
+-  🇧🇷  I live in Brazil / Pernambuco.
 
-<!--
-**Messias-Acacy/Messias-Acacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=Messias-Acacy&theme=apprentice&show_icons=true&hide_border=true&count_private=true" alt="Status Messias">
+  <img  width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=Messias-Acacy&theme=apprentice&hide_border=true" alt="Streak Messias">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    Tecnologias que quero aprender :pushpin:
+  <img width="30%"  heigth="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=apprentice&hide_progress=true&show_icons=false&hide_border=true&layout=compact" alt="Streak Messias">
+  
+  <div align="center">
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" /> 
+  </div>
+
+  tecnologias que uso  :pushpin:
+   <div align="center">
+    <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  />
+    <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  </div>
+  
+  
+
+    
+  
+ 
+</div>
+
+
+
+   
+
+ 
+  
+ 
+  
+
+  
