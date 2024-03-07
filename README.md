@@ -15,7 +15,7 @@
  
   <img width="42%"  heigth="100%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Messias-Acacy&theme=apprentice&hide_progress=true&show_icons=false&hide_border=true&layout=compact" alt="Streak Messias">
   
-  <div>  Technology i use :pushpin:</div>
+  <div>  Technologies i use :pushpin:</div>
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  />
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img  height="3%" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
